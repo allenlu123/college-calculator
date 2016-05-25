@@ -1,0 +1,107 @@
+/* CSS Document */
+
+/*##############################################################
+  Allen Lu.css (includes Baseline)
+##############################################################*/ 
+
+html, body, div, span,
+applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dd, dl, dt, li, ol, ul,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	line-height: 1;
+	font-family: inherit;
+	text-align: center;
+	vertical-align: baseline;
+	
+}
+a img, :link img, :visited img {border: 0}
+table {border-collapse: collapse; border-spacing: 0}
+q:before, q:after,
+blockquote:before, blockquote:after {content: ""}
+
+/*##############################################################
+  Element Styles
+##############################################################*/
+
+h1 {margin-left:3px;padding-top:9px; padding-left:53px; text-shadow:1px 1px #aaa; font-size:45px; color:#f00; }
+h3, h4, h5, h6 {margin:20px 0 15px 0; font-weight:bold; font-family:Futura; color:#000}
+h2 {clear:both;margin:25px 0 15px 0; font-size:25pt; font-weight:bold; font-family:Futura, Helvetica, Arial, Verdana, sans-serif; color:#000}
+h3 {font-size:24px; font-weight:bold; color: #00f }
+h5 {clear:both;margin:20px 0 15px 0; font-size:17pt; font-weight:bold; font-family:Futura; color:#f00}
+h6 {clear:both;margin:20px 0 15px 0; font-size:15pt; font-weight:normal; font-family:Futura; color:#000}
+ul, ol, dl, li {margin:0}
+p {width:100%; text-align:justify; margin:15px 0 0 0}
+a {color:#a63c3c; text-decoration:underline; outline:none}
+	a:hover {text-decoration:none}
+	
+.clear {clear:both; float:left}
+
+/*##############################################################
+  Layout Styles
+##############################################################*/
+
+body {font-size:32px; font-family:Helvetica, Arial, Verdana, sans-serif; color:#000; background:#ac1e1e url(../images/body_bg.jpg) 50% top repeat-x}
+
+#wrapper {width:830px; overflow:hidden; margin:0 auto; padding:0 220px}
+	
+	#header {float:left; display:inline; height:60px;margin:0 0 40px 5px}
+	
+	#navigation {float:right; display:inline; list-style-type:none; padding-left:13px; width:1000px}
+		#navigation #index { padding-top:5px; height:51px; width:140px; border-left:2px groove #e1e3e3}
+		#navigation #college { padding-top:5px; height:51px; width:200px}
+		#navigation #weekly_physics_question { padding-top:5px; height:51px; width:220px}
+	    #navigation #school { padding-top:5px; height:51px; width:260px}
+		#navigation li {float:right; margin:0; font-size:28px; border-right:2px groove #e1e3e3}
+			#navigation li a {display:block; height:41px; padding-top:16px; text-align:center; color:#ffffff; text-decoration:none}
+				#navigation li a:hover {color:#62acff; text-decoration:none}
+	
+	#content {clear:both; width:804px; padding:0 13px; background:#faf8f9 url(../images/content_bg.jpg) 50% top no-repeat}
+	
+		#main_content {clear:both; width:804px; padding:0 13px;  font-size: 24px;
+  font-family: Helvetica, Arial, Verdana, sans-serif; background:#faf8f9 url(../images/content_bg.jpg) 50% top no-repeat}
+	
+	#main_content2 {float:left; width:800px; margin:0 0 30px 0; text-align:center}
+						
+			.two_columns {float:left; display:inline; margin-right:80px; width:360px; text-align:left}
+			#main_content2 .two_columns p {width:360px}
+			#main_content2 p {width:800px}
+			#main_content2 .right_column {margin:0}
+				
+		#footer {overflow:hidden;}
+		table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    background-color:#8E8E8C;
+    color: #00007A;
+}
+th,td {
+    padding: 10px;
+}
+	
+		select {
+  font-size: 36px;
+  font-family: Helvetica, Arial, Verdana, sans-serif;
+   width: 100%; 
+     box-sizing: border-box;
+ color: #00007A;
+  border: 0px solid black;
+  text-align: center;
+  background-color:#8E8E8C;
+  
+}
+
+
+		
+		

@@ -1,0 +1,104 @@
+{
+"universities": [
+{
+"name": "Harvard University",
+"image": "images/imageharvard.jpg",
+"description": "Harvard is a school in Cambridge, Massachusetts, which is just outside of Boston. It was founded in 1636, it is located in an urban setting, and its campus size encompasses 5,076 acres. It utilizes a semester-based academic calendar. Harvard has a student-faculty ratio of 7:1 with 75.6% of classes having fewer than 20 students. The top five majors at Harvard are social sciences, biology, history, mathematics, and psychology. The greek life at Harvard is unofficial, with hazing being one of the rituals to get into a fraternity or sorority. The mascot at Harvard is John Harvard, the man presumed to have founded Harvard (he didn't actually, he just donated a lot of money to the school). Famous alumni from Harvard include Barack Obama, Mark Zuckerberg, Bill Gates, and Matt Damon."
+},
+{
+"name": "Stanford University",
+"image": "images/imagestanford.jpg",
+"description": "Stanford is a school in Palo Alto, California, about 30 miles away from San Francisco. It was founded in 1885, with a size of 8,180 acres and a sunny, suburban campus setting. Stanford utilizes a quarter-based academic calendar. The school has a 5:1 student-faculty ratio, and 68.8% of the classes have fewer than 20 students. The top five majors at Stanford are social sciences, interdisciplinary studies, engineering, computer science, and biological/biomedical sciences. Stanford has 31 Greek letter organizations, one social Greek letter honor society and four governing Greek councils. Famous alumni include John Elway, Andrew Luck, and Condoleezza Rice."
+},
+{
+"name": "University of Washington",
+"image": "images/imageuw.jpg",
+"description": "The University of Washington is primarily located in Seattle, Washington, but it also has locations in Bothell and Tacoma. Despite the urban setting, UW's 703 acre campus is one of the best ranked in the nation. In the springtime, the entire campus becomes covered with a cloudy layer of cherry blossoms. UW has a quarter-based academic calendar, and its students receive a lot of flexibility over when they can start their terms. Because the majority of UW students come from the Seattle area, it is known as a commuter school and freshmen aren't required to live on campus. It has an 11:1 student faculty ratio. The UW Huskies are known for their long-time rivalry with the WSU Cougars (www.uwrejects.com). The top 5 majors are social sciences, biological and biomedical sciences, business management, engineering, and performing arts. Famous alumni include Bruce Lee, Brandon Roy, and Jermaine Kearse."
+},
+{
+"name": "UC-Berkeley",
+"image": "images/imageberkeley.jpg",
+"description": "UC-Berkeley is a school located in Berkeley, California, which is on the east shore of San Francisco Bay. The school's setting is urban and it has a campus size of 1,232 acres. Berkeley utilizes a semester-based academic calendar and has a student-faculty ratio of 17:1 with 60% of its classes having fewer than 20 students. Berkeley is known for its focus in engineering, particularly the field of electrical engineering and computer science. UC-Berkeley has an established Greek life with four different Greek life councils. The mascot of Berkeley is the golden bear. Famous alumni include Aaron Rodgers, Marshawn Lynch, DeSean Jackson, Kevin Johnson, and Jason Kidd."
+},
+{
+"name": "Massachusetts Institute of Technology",
+"image": "images/imagemit.jpg",
+"description": "MIT is a school in Cambridge, Massachusetts, which is 3 miles away from Boston. It was founded in 1861, it is located in an urban setting, and its size is 168 acres. MIT is known for its emphasis in STEM majors, with its top five major choices being engineering, computer science, physical sciences, biological and biomedical sciences, and mathematics. Its two most prestigious graduate schools are its School of Engineering and the Sloan School of Management. MIT has a 4-1-4 academic schedule, in which the 1 month away from classes is used for research opportunities or internships. The student-faculty ratio is 8:1. Greek life at MIT includes various personalities and extracurricular activities, and each sorority throws dry mixers with other fraternities. The MIT mascot is the beaver, nature's engineer. Famous MIT alumni include Daryl Morey, the innovative GM of the Houston Rockets; John Thain, the current CEO of the CIT Group and former CEO of Merrill Lynch; and James Woods, who dropped out."
+},
+{
+"name": "California Institute of Technology",
+"image": "images/imagecaltech.jpg",
+"description": "Caltech is a school in Pasadena, California, about 11 miles away from Los Angeles. It was founded in 1891 and has a size of 124 acres with a suburban setting. Caltech is known for its emphasis in STEM majors, with its top five major choices being engineering, physical sciences, computer science, mathematics, biological and biomedical sciences. Caltech's student-faculty ratio is 3:1. Caltech does not have greek life, as there are no fraternities or sororities at the school. The mascot for Caltech is the beaver, nature's engineer. Famous alumni include Carl D. Anderson, who proved the existence of positrons and muons and Douglas D. Osheroff, who won the Nobel Prize in Physics in 1996 for his work in experimental condensed matter."
+},
+{
+"name": "Princeton University",
+"image": "images/imageprinceton.jpg",
+"description": "Princeton is a university located in Princeton, New Jersey, founded in 1746. Its setting is suburban and its campus size is 600 acres. Princeton utilizes a semester-based academic calendar. Its student-faculty ratio is 6:1 and 70.9% of its classes have fewer than 20 students. The top five majors at Princeton are economics, political science, molecular biology, psychology, and public policy. Princeton has very insignificant Greek life; it focuses more on food clubs. The mascot at Princeton is the tiger. Famous alumni include John Nash (Nash Equilibrium), Michelle Obama, and John F. Kennedy."
+},
+{
+"name": "Yale University",
+"image": "images/imageyale.jpg",
+"description": "Yale is a school in New Haven, Connecticut, founded in 1701, and has a campus size of 342 acres in an urban setting. Yale utilizes a semester-based academic calendar. Its student-faculty ratio is 6:1 and 76.8% of its classes have fewer than 20 students. The top five majors at Yale are economics, political science, biology, history, and psychology. Yale has an active greek life, with a multitude of fraternities and sororities. The mascot at Yale is the bulldog. Famous alumni include George Bush Sr. and Jr., Bill Clinton, and Anderson Cooper."
+},
+{
+"name": "University of Pennsylvania",
+"image": "images/imageupenn.jpg",
+"description": "The University of Pennsylvania is a school located in Philadelphia, Pennsylvania, founded in 1740 by Benjamin Franklin. Its is setting is urban and its campus size is 302 acres. UPenn utilizes a semester-based academic calendar and has a student-faculty ratio of 6:1 with 68.3% of its classes having fewer than 20 students. The top five majors at UPenn are business, social sciences, engineering, biological and biomedical sciences, and history. The University of Pennsylvania is known for its Wharton School of Business, which boasts the top undergraduate business program in the country and is consistently ranked as one of the best business schools in America. UPenn has an active Greek life with over fifty Greek letter organizations. The UPenn mascot is a Quaker. Notable alumni include Elizabeth Banks, Donald Trump, and John Legend."
+},
+{
+"name": "Columbia University",
+"image": "images/imagecolumbia.jpg",
+"description": "Columbia University is located in the Morningside Heights Neighborhood of New York City, and it is just a thirty minute taxi-ride away from Times Square. Despite being one of the country's best universities, Columbia is also one of the smallest; the urban campus cover 4 blocks, or 36 acres. Columbia students take advantage of a a 6:1 student to faculty ratio and the top 5 majors are social sciences, engineering, biological and biomedical sciences, english, and performing arts. Its mascot is the lion. Greek life is well integrated into Columbia's campus, with around 10% of the students participating. Notable alumni include Barack Obama, George Stephanopoulos, and Alexander Hamilton."
+},
+{
+"name": "Brown University",
+"image": "images/imagebrown.jpg",
+"description": "Brown is located in Providence, Rhode Island. Its 6,455 undergraduate students enjoy a 146 acre campus modelled off of Harvard's campus. The campus setting is urban. Brown has a 8:1 student to faculty ratio and the most popular majors are economics, biological sciences, engineering, international relations, and political science. Brown's academics are particularly known for its accelerated programs; many undergraduates take pre-professional programs, graduate with dual degrees, or conduct a Masters immediately after their undergraduate experience. Greek life is well integrated in Brown, with about 10% of the Brown Bears participating. Brown's most notable alumni include Emma Watson and Ted Turner."
+},
+{
+"name": "Dartmouth University",
+"image": "images/imagedartmouth.jpg",
+"description": "Dartmouth is a school in Hanover, New Hampshire. It is a college town setting, so its facilities are integrated into Hanover. It utilizes a quarter-based academic calendar, and has a student-to-faculty ratio of 8:1. Dartmouth's top 5 majors are economics, political science, history, engineering, psychology. Dartmouth has some of the most developed Greek life in the country, with nearly 50% of students participating in sororities and frats. Dartmouth's mascot, 'Keggy the Beer Keg' leads Dartmouth's student body of 4273 people. Famous Dartmouth alumni include Dr. Seuss, Tim Geithner, and Robert Frost."
+},
+{
+"name": "Cornell University",
+"image": "images/imagecornell.jpg",
+"description": "Cornell is a school located in Ithaca, New York. It was founded in 1865, its setting is rural, and its size is 745 acres. It utilizes a semester-based academic calendar, has a student-faculty ratio of 9:1 and 55.6% of its classes have fewer than 20 students. Cornell's top five majors are engineering, business, biological and biomedical sciences, agriculture, and social sciences. Cornell has a thriving Greek life, with numerous different fraternities and sororities and three different Greek life councils. The Cornell mascot is a bear. Famous alumni include Bill Nye, Keith Olbermann, and Janet Reno."
+},
+{
+"name": "University of Chicago",
+"image": "images/imagechicago.jpg",
+"description": "The University of Chicago is a school located in Chicago, Illinois, and it was founded in 1890. The campus setting is urban and the size is 215 acres. The school utilizes a quarter-based academic calendar and has a 6:1 student-faculty ratio with 75.8% of classes having fewer than 20 students. The top five majors at UChicago are social sciences, biological and biomedical sciences, mathematics, English, and social services. UChicago has a thriving Greek life, with a variety of Greek letter organizations. The mascot for UChicago is the phoenix. Notable alumni include Bernie Sanders, David G. Booth, Carl Sagan, and Bernie Sanders."
+},
+{
+"name": "Duke University",
+"image": "images/imageduke.jpg",
+"description": "Duke is a national university located in Durham, North Carolina. Along with UNC-Chapel Hill and North Carolina State University, Duke forms the Research Triangle of North Carolina, which has the highest number of PhDs per area. It is located in a suburban setting and its three campuses-West, East, and Central-total out to be 8,709 acres. Duke is most known for its strong basketball team, the Blue Devils, but it also has very strong academic programs, boasting incredibly high med school and law school acceptance rates. The student to faculty ratio is 7:1. Duke uses a semester-based academic calendar, with many of its students finding internships through Duke's national services during the summer. Duke's most notable alumni are Grant Hill, Christian Laettner, Shane Battier, Kyrie Irving, and Melinda Gates, whose generous donations led to the creation of the Sarah P. Duke Gardens."
+},
+{
+"name": "Williams College",
+"image": "images/imagewilliams.jpeg",
+"description": "Williams is a liberal arts college located in Williamstown, Massachusetts, which is 158 miles away from Boston and relatively isolated. The college is integrated into the town and is in a rural setting. Williams boasts a 4-1-4 academic schedule; students take a semester of classes  in fall. Then they spend all of January exploring their own intellectual interests before returning to a semester schedule of classes. Williams has a relatively large student body size relative to other liberal arts college. Their 2,077 students make-up a 7:1 student faculty ratio on Williams' campus. The top five most popular majors are english, history, math, economics, and polisci. Williams' adorable mascot, the Eph (pronounced 'eef') leads the school to a number of D3 athletic championships. Williams abolished Greek Life in the 1980s."
+},
+{
+"name": "Amherst College",
+"image": "images/imageamherst.jpg",
+"description": "Amherst is a liberal arts college located in Amherst, Massachusetts. The college is in a suburban setting and at the edge of the city. Amherst operates under a semester-based academic schedule. Amherst is a member of the Five Colleges consortium, which also includes Smith, Mount Holyoke, Hampshire, and the University of Massachusetts-Amherst. Students may take courses at any of these colleges. Amherst has a relatively large student body size relative to other liberal arts college. Their 1,785 students make-up a 8:1 student faculty ratio on Amherst's campus. The top five most popular majors are english, history, psychology, economics, and political science. Amherst's mascot, Lord Jeff, leads the school into battle against their well-known rivals, the Williams Ephs. Like their rivals, Amherst abolished Greek Life in the 1980s."
+},
+{
+"name": "Swarthmore College",
+"image": "images/imageswarthmore.jpg",
+"description": "Swarthmore is a liberal arts college located in Swarthmore, Pennsylvania, which is eleven miles south of Philadelphia. The college is in a suburban setting. Swarthmore operates under a semester-based academic schedule. Swarthmore is a member of the Tri-Colleges consortium, which also includes Haverford and Bryn Mawr. Students may take courses at any of these colleges. Swarthmore has a relatively small student body size relative to other liberal arts college. Their 1,534 students make-up a 8:1 student faculty ratio on Swarthmore's campus. The top five most popular majors are social sciences, biological and biomedical sciences, visual and performing arts, foreign languages, and psychology. Swarthmore is known for its focus on academics and its shunning of collegiate sports; the school no longer has a football team. While Greek life is available at Swarthmore, only about 10% of students choose to enter a frat or sorority."
+},
+{
+"name": "Pomona College",
+"image": "images/imagepomona.jpg",
+"description": "Pomona is a liberal arts college located in Claremont, California, which is thirty-five miles east of Los Angeles. The college is in a suburban setting. Pomona operates under a semester-based academic schedule. Pomona is a member of the Claremont consortium, which also includes Claremont Mckenna, Harvey Mudd, Scripps, and Pitzer. Students may take courses at any of these colleges. Pomona has a relatively small student body size relative to other liberal arts college. Their 1,613 students make-up a 8:1 student faculty ratio on Pomona's campus. The top five most popular majors are: economics, mathematics, neuroscience, molecular biology, and political sciences. Pomona is known for its focus on a strong 'English education,' which emphasizes small classes and strong student-faculty relationships. A well-known attraction of Pomona is 2/3rds of its students reside in single dorms. While there are three fraternities on campus, over 95% of Pomona's students live independently."
+},
+{
+"name": "Haverford College",
+"image": "images/imagehaverford.jpg",
+"description": "Haverford is a liberal arts college in Haverford, Pennsylvania, which is 10 miles from Philadelphia. The school was founded in 1833, its setting is suburban, and it utilizes a semester-based academic calendar. One of the special opportunities at Haverford is the ability given to students to take courses at the nearby schools, Swarthmore College and the University of Pennsylvania. Haverford has a 9:1 student-faculty ratio, with 82.3% of its classes having fewer than 20 students. The top five majors at Haverford are biology, psychology, english, economics, and political science. While there are no fraternities or sororities at Haverford, there are 134 different student organizations that can be participated in. The mascot for Haverford is the black squirrel. Notable alumni include George Segal, Chevy Chase, and Juan Williams."
+}
+]
+}
